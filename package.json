@@ -1,0 +1,16 @@
+{
+  "name": "tap-viet-han-ios",
+  "version": "1.0.0",
+  "description": "T\u1eadp vi\u1ebft ch\u1eef H\u00e1n cho iPhone",
+  "scripts": {
+    "sync": "cap sync ios",
+    "open": "cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/cli": "^8.5.3",
+    "@capacitor/core": "^8.5.3",
+    "@capacitor/ios": "^8.5.3",
+    "@capacitor/preferences": "^8.0.1"
+  },
+  "private": true
+}

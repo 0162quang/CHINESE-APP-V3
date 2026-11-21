@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.tapviethan",
+  "appName": "Tập viết Hán",
+  "webDir": "www",
+  "ios": { "contentInset": "never" }
+}
